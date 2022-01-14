@@ -1,6 +1,10 @@
 # bfj
 
 ```console
+go install github.com/go-faster/bfj@latest
+```
+
+```console
 go test -count 1 -benchmem -bench . | bfj | jq
 ```
 
