@@ -1,4 +1,4 @@
-module github.com/go-faster/bq
+module github.com/go-faster/bfj
 
 go 1.17
 
