@@ -10,5 +10,5 @@ require (
 require (
 	github.com/go-faster/errors v0.5.0 // indirect
 	github.com/segmentio/asm v1.1.3 // indirect
-	golang.org/x/sys v0.0.0-20211110154304-99a53858aa08 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 )
